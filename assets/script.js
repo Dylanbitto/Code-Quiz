@@ -210,7 +210,7 @@ function setEndHeading() {
   }
 }
 
-/****** SUBMITTING INITIALS ******/ 
+/***** SUBMITTING INITIALS *****/ 
 function processInput(event) {
   event.preventDefault();
 
