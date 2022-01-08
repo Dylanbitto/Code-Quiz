@@ -9,8 +9,8 @@ To build a timed javascript quiz where you can save your scores by using initial
 * If the answer is incorrect 10 seconds will be deducted from the timer
 
 ## Built with
-*html
-*css
-*javascript
+* html
+* css
+* javascript
 
 ## Website
