@@ -1,4 +1,4 @@
-/*****Body*****/
+/***Body***/
 html {
     height: 100%;
   }
@@ -19,19 +19,17 @@ html {
     flex-direction: column;
   }
   
-  /*****Text styles*****/
+  /***Text styles***/
   /*Headings*/
   h1 {
     margin: 0;
     font-size: 2em;
   }
   
-  /*Icons*/
   .fas {
     margin-right: 10px;
   }
   
-  /*Clickable*/
   a {
     color: #88115b;
     text-decoration: none;
@@ -78,18 +76,18 @@ html {
     margin-left: 0;
   }
   
-  /*****Hidden*****/
+  /***Hidden***/
   .hidden {
     display: none;
   }
   
-  /*****Nav*****/
+  /***Nav***/
   nav {
     padding: 15px;
     border-bottom: 1px solid #CECECE;
   }
   
-  /*****Sections*****/
+  /***Sections***/
   main {
     display: flex;
     flex-direction: column;
@@ -101,12 +99,12 @@ html {
     padding: 20px 0;
   }
   
-  /*****Start*****/
+  /***Start***/
   #start {
     text-align: center;
   }
   
-  /*****Quiz-questions*****/
+  /***Quiz-questions***/
   #question {
     font-size: 1.4em;
   }
@@ -150,14 +148,13 @@ html {
     color: #E81648;
   }
   
-  /*gray line before choice status*/
   #quiz-questions, 
   #end {
     border-bottom: 1px solid #CECECE;
     padding-bottom: 15px;
   }
   
-  /*****End*****/
+  /***End***/
   #score-text {
     font-size: 1.2em;
   }
@@ -193,7 +190,7 @@ html {
     margin-top: 5px;
   }
   
-  /*****Highscores*****/
+  /***Highscores***/
   table {
     border-spacing: 0 0.5em;
   }
@@ -228,7 +225,7 @@ html {
     margin-bottom: 50px;
   }
   
-  /*****Breakpoints*****/
+  /***Breakpoints***/
   @media only screen and (min-width: 992px) {
     main {
       width: 60%;
